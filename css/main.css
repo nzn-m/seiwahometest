@@ -51,7 +51,7 @@ button {
 /* アイキャッチ画像 */
 h1 {
 	min-height: 454px;
-	background-image: url(../image/アイキャッチSP.jpg);
+	background-image: url(https://github.com/nzn-m/seiwahome/blob/master/image/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81.jpg?raw=true);
 	background-repeat: no-repeat;
 	background-position: top left;
 	background-size: cover;
